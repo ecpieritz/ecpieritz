@@ -1,6 +1,6 @@
 # Hello World! 👋🌍
 
-Hi! 😄 My name is Emilyn Caroline Pieritz, I am 29 years old and I live in the state of Santa Catarina / Brazil. 
+Hi! 😄 My name is Emilyn Caroline Pieritz, I'm 29 years old and I live in the state of Santa Catarina / Brazil. 
 
 ## About me 🔮
 I worked for 10 years as a graphic designer and a few months ago I decided to migrate from the sector and specialize as a web developer.
