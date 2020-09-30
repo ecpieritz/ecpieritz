@@ -9,9 +9,11 @@ I worked for 10 years as a graphic designer and a few months ago I decided to mi
 - Graduation in Systems Analysis and Development (in progress)
 
 ## Improvement courses :blue_book:
-- Fullstack Developer Bootcamp (IGTI - in progress)
+- Frontend Developer Bootcamp (IGTI - in progress)
+- Fullstack Developer Bootcamp (IGTI)
 - Front-end React Developer Bootcamp (Digital Innovation One)
-- JavaScript Course (Udemy - in progress)
+- Vue.js Course (Udemy - in progress)
+- JavaScript Course (Udemy)
 - Programming algorithm and logic Course (Udemy)
 - C++ Course (Udemy)
 
@@ -22,6 +24,7 @@ I worked for 10 years as a graphic designer and a few months ago I decided to mi
 - TypeScript
 - NodeJS
 - React
+- Vue
 - Bootstrap
 - Git 
 
