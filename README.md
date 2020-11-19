@@ -8,7 +8,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ## Stats 💬
 
-![EPieritz GitHub Stats](https://github-readme-stats.vercel.app/api?username=epieritz&show_icons=true)
+![ecpieritz GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true)
 
 ## Languages/Frameworks <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code> 
