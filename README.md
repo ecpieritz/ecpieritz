@@ -14,6 +14,8 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&layout=compact&theme=radical)](https://github.com/ecpieritz/github-readme-stats)
+
 ## Languages/Frameworks <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code> 
@@ -35,13 +37,3 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - JavaScript Course (Udemy)
 - Programming algorithm and logic Course (Udemy)
 - C++ Course (Udemy)
-
-## Find me :mailbox_with_mail:
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/ecpieritz/">
-  <img alt="LinkdeI" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a> 
-<a target="_blank" href="https://www.instagram.com/ecpieritz/">
-  <img alt="Instagram" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a> </div>
-
