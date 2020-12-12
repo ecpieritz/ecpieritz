@@ -1,3 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ecpieritz/)](https://www.linkedin.com/in/ecpieritz/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ecpieritz@gmail.com)](mailto:ecpieritz@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ecpieritz/)](https://www.instagram.com/ecpieritz/)
+
 # Hello World! 👋🌍
 
 Hi! :blush: My name is Emilyn Caroline Pieritz, I'm 29 years old and I live in the state of Santa Catarina / Brazil.
@@ -8,9 +12,10 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ## Stats 💬
 
-![ecpieritz GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true)
+![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)
 
 ## Languages/Frameworks <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code> 
@@ -34,9 +39,9 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 ## Find me :mailbox_with_mail:
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/ecpieritz/">
-  <img alt="LinkdeIN" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkdeI" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a> 
 <a target="_blank" href="https://www.instagram.com/ecpieritz/">
-  <img alt="Instagram" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Instagram" width="30px" margin-left="10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a> </div>
 
