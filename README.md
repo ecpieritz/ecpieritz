@@ -12,7 +12,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ## Stats 💬
 
-![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&layout=compact&theme=radical)](https://github.com/ecpieritz/github-readme-stats)
+![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)<span>&nbsp;&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&layout=compact&theme=radical)](https://github.com/ecpieritz/github-readme-stats)
 
 ## Languages/Frameworks :minidisc:
 
