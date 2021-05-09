@@ -6,7 +6,10 @@
 
 Hi! :blush: My name is Emilyn Caroline Pieritz, I'm 29 years old and I live in the state of Santa Catarina / Brazil.
 
-Currently studying analysis and systems development at Uniasselvi, bootcamps by IGTI, Vue.js course by Udemy and smaller courses by Origamid.
+- Currently studying analysis and systems development at Uniasselvi
+- Bootcamps by IGTI
+- Vue.js courses by Udemy and VueSchool
+- Smaller courses by Origamid.
 
 I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate to the technology sector and specialize as a frontend developer. 
 
@@ -41,4 +44,3 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Front-end React Developer Bootcamp (Digital Innovation One)
 - JavaScript Course (Udemy)
 - Programming algorithm and logic Course (Udemy)
-- C++ Course (Udemy)
