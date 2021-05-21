@@ -36,8 +36,8 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 </p>
 
 ##  :blue_book: Improvement courses
-- Vue.js Course (Udemy - in progress)
 - Vue/Angular Frontend Developer Bootcamp (IGTI - in progress)
+- Vue.js Course (Udemy)
 - Python Developer Bootcamp (IGTI)
 - Frontend Developer Bootcamp (IGTI)
 - Fullstack Developer Bootcamp (IGTI)
