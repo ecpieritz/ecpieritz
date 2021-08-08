@@ -4,7 +4,7 @@
 
 # 👋 Hello World! 🌍
 
-Hi! :blush: My name is Emilyn Caroline Pieritz, I'm 29 years old and I live in the state of Santa Catarina / Brazil.
+Hi! :blush: My name is Emilyn Caroline Pieritz, I'm 30 years old and I live in the state of Santa Catarina / Brazil.
 
 I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate to the technology sector and specialize as a frontend developer. 
 
@@ -36,9 +36,10 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 </p>
 
 ##  :blue_book: Improvement courses
-- Vue/Angular Frontend Developer Bootcamp (IGTI - in progress)
-- Nuxt.js (Udemy - in progress)
+- Vue.js 2 Course (Origamid - in progress)
+- Vue/Angular Frontend Developer Bootcamp (IGTI)
 - Vue.js Course (Udemy)
+- CSS Flex course (Origamid)
 - Python Developer Bootcamp (IGTI)
 - Frontend Developer Bootcamp (IGTI)
 - Fullstack Developer Bootcamp (IGTI)
