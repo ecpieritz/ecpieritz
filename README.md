@@ -48,3 +48,6 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Front-end React Developer Bootcamp (Digital Innovation One)
 - JavaScript Course (Udemy)
 - Programming algorithm and logic Course (Udemy)
+
+---
+<p align = "right">Profile maintained with dedication and 💙 by Emilyn C. Pieritz</p>
