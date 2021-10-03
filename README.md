@@ -11,6 +11,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Currently studying analysis and systems development at Uniasselvi
 - Bootcamps by IGTI
 - Vue.js courses by Udemy and VueSchool
+- React courses by Udemy and Digital Innovation One
 - Smaller courses by Origamid.
 
 ---
@@ -19,7 +20,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)<span>&nbsp;&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&layout=compact&theme=radical)](https://github.com/ecpieritz/github-readme-stats)
 
-## :minidisc: Languages/Frameworks 
+## :minidisc: Languages/Frameworks/Libs 
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50" />&nbsp;
