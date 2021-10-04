@@ -39,10 +39,11 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ##  :blue_book: Improvement courses
 - React.Js + Next.Js (Udemy - in progress)
+- Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
 - Bootstrap 4 (Udemy)
 - Vue.js 2 Course (Origamid)
 - Vue/Angular Frontend Developer Bootcamp (IGTI)
-- Vue.js Course (Udemy)
+- Vue.js Course (Udemy - <a href="https://www.udemy.com/user/leonardomouraleitao/" target="_blank">Leonardo Moura Leitão</a>)
 - CSS Flex course (Origamid)
 - Python Developer Bootcamp (IGTI)
 - Frontend Developer Bootcamp (IGTI)
