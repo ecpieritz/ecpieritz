@@ -37,7 +37,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="50" height="50" />
 </p>
 
-##  :blue_book: Improvement courses
+##  :blue_book: Improvement Courses
 - React.Js + Next.Js (Udemy - in progress)
 - Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
 - Bootstrap 4 (Udemy)
