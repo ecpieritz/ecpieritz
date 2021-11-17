@@ -38,6 +38,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 
 ##  :blue_book: Improvement Courses
 - Vue.js 3 Course (<a href="https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado" target="_blank">Igor Halfeld</a> - in progress)
+- Vue.js 2 Course (Origamid)
 - Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
 - Bootstrap 4 (Udemy)
 - Vue.js 2 Course (Origamid)
