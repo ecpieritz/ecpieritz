@@ -11,7 +11,6 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Currently studying analysis and systems development at Uniasselvi
 - Bootcamps by IGTI
 - Vue.js courses by Udemy and VueSchool
-- React courses by Udemy and Digital Innovation One
 - Smaller courses by Origamid.
 
 ---
