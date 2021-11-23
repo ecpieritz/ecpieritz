@@ -36,6 +36,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 </p>
 
 ##  :blue_book: Improvement Courses
+- Laravel 5.5 with Vue.js Course (Udemy)
 - Vue.js 2 Course (Origamid)
 - Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
 - Bootstrap 4 (Udemy)
