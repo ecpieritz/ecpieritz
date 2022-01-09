@@ -50,6 +50,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Bootstrap 4 (Origamid)
 - Front-end React Developer Bootcamp (Digital Innovation One)
 - JavaScript Course (Udemy)
+- Agile projects with SCRUM (Digital Innovation One)
 - Programming algorithm and logic Course (Udemy)
 
 ---
