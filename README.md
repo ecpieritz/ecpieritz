@@ -8,9 +8,9 @@ Hi! :v: My name is Emilyn, I'm 30 years old and I live in the state of Santa Cat
 
 I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate and specialize as a frontend developer. 
 
-- Currently studying analysis and systems development at Uniasselvi(5th semester)
-- Bootcamps by IGTI
-- Vue.js courses by Udemy and VueSchool
+- Currently studying analysis and systems development at Uniasselvi(5th semester).
+- Bootcamps by IGTI.
+- General courses by Udemy and Alura.
 - Smaller courses by Origamid.
 
 ---
