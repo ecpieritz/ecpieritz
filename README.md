@@ -37,6 +37,7 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 </p>
 
 ##  :blue_book: Improvement Courses
+- SASS Course (Origamid)
 - SASS Course (Alura)
 - Javascript & Typescript (Udemy)
 - Vue.js 2 Course (Origamid)
