@@ -4,10 +4,10 @@
 
 Hi! :v: My name is Emilyn, I'm 31 years old and I live in the state of Santa Catarina/Brazil.
 
-I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate and specialize as a frontend developer. 
+I worked for 10 years as a graphic/fashion designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate and specialize as a frontend developer. 
 
-- Currently studying the last semester of analysis and systems development at Uniasselvi(5th semester).
-- Bootcamps by IGTI.
+- Currently studying the last semester of analysis and systems development at Uniasselvi(6th semester).
+- Bootcamps by XP Education.
 - General courses by Udemy and Alura.
 - Smaller courses by Origamid.
 
@@ -47,12 +47,12 @@ I worked for 10 years as a graphic designer, mainly using photoshop, coreldraw a
 - Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
 - Bootstrap 4 (Udemy)
 - Vue.js 2 Course (Origamid)
-- Vue/Angular Frontend Developer Bootcamp (IGTI)
+- Vue/Angular Frontend Developer Bootcamp (XP Education)
 - Vue.js Course (Udemy - <a href="https://www.udemy.com/user/leonardomouraleitao/" target="_blank">Leonardo Moura Leitão</a>)
 - CSS Flex course (Origamid)
-- Python Developer Bootcamp (IGTI)
-- Frontend Developer Bootcamp (IGTI)
-- Fullstack Developer Bootcamp (IGTI)
+- Python Developer Bootcamp (XP Education)
+- Frontend Developer Bootcamp (XP Education)
+- Fullstack Developer Bootcamp (XP Education)
 - Bootstrap 4 (Origamid)
 - Front-end React Developer Bootcamp (Digital Innovation One)
 - JavaScript Course (Udemy)
