@@ -1,5 +1,3 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ecpieritz@gmail.com)](mailto:ecpieritz@gmail.com)&nbsp;
-
 # 👋 Hello World! 🌍
 
 Hi! :v: My name is Emilyn, I'm 31 years old and I live in the state of Santa Catarina/Brazil.
