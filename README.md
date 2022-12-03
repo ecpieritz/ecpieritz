@@ -35,7 +35,7 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop, cor
 </p>
 
 ##  :blue_book: Improvement Courses
-- Vue.js 3 Course (on going - Alura)
+- Vue.js 3 Course (Alura)
 - React Course (Udemy)
 - React Course (Origamid)
 - SASS Course (Origamid)
