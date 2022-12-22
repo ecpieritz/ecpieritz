@@ -5,9 +5,9 @@ Hi! :v: My name is Emilyn, I'm 31 years old and I live in the state of Santa Cat
 I worked for 10 years as a graphic/fashion designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate and specialize as a frontend developer. 
 
 - Associates degree in analysis and systems development at Uniasselvi.
-- Bootcamps by XP Education.
-- General courses by Udemy and Alura.
-- Smaller courses by Origamid.
+- Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
+- General courses by <a href="https://www.udemy.com/" target="_blank">Udemy</a> and <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
+- Smaller courses by <a href="https://www.origamid.com/" target="_blank">Origamid</a>.
 
 ---
 
