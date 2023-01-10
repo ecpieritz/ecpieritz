@@ -2,7 +2,7 @@
 
 Hi! :v: My name is Emilyn, I'm 31 years old and I live in the state of Santa Catarina/Brazil.
 
-I worked for 10 years as a graphic/fashion designer, mainly using photoshop, coreldraw and illustrator, and in April/2020 I decided to migrate and specialize as a frontend developer. 
+I worked for 10 years as a graphic/fashion designer, mainly using photoshop and coreldraw. In 2020 I made my transition to front-end development. I've been working for almost 2 and a half years as a dev.
 
 - Associates degree in analysis and systems development at Uniasselvi.
 - Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
