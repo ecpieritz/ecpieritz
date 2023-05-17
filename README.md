@@ -35,6 +35,7 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
 </p>
 
 ##  :blue_book: Improvement Courses
+- Angular Course (Udemy - on going)
 - Typescript Course (Alura)
 - React with Typescript Course (Alura)
 - Vue.js 3 Course (Alura)
