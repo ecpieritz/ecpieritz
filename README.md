@@ -1,6 +1,6 @@
 # 👋 Hello World! 🌍
 
-Hi! :v: My name is Emilyn, I'm 31 years old and I live in the state of Santa Catarina/Brazil.
+Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Santa Catarina/Brazil.
 
 I worked for 10 years as a graphic/fashion designer, mainly using photoshop and coreldraw. In 2020 I made my transition to front-end development. I've been working for 2 and a half years as a dev.
 
