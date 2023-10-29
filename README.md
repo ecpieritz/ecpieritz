@@ -1,4 +1,9 @@
-# 👋 Hello World! 🌍
+<div>
+    ### 👋 Hello World! 🌍
+
+[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecpieritx/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ecpieritz) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
+
+<img align="right" src="https://github.com/ecpieritz/ecpieritz/blob/master/codes.jpg?raw=true" border="2" width="30%" height="auto" alt="glasses in front a computer" />
 
 Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Santa Catarina/Brazil.
 
@@ -8,12 +13,34 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
 - Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
 - General courses by <a href="https://www.udemy.com/" target="_blank">Udemy</a> and <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 - Smaller courses by <a href="https://www.origamid.com/" target="_blank">Origamid</a>.
+</div>
+
+<div>
+    <table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" width="30%">
+      <a href="https://github.com/ecpieritz/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&langs_count=8&theme=radical&layout=pie" width="260" >
+      </a>
+    </td>
+    <td style="border: none;" width="70%">
+      <div style="border-radius: 8px; overflow: hidden;">
+        <img src="https://github.com/ecpieritz/ecpieritz/blob/master/banner-front.jpg?raw=true" alt="front-end banner" width="100%" height="auto">
+      </div>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td style="border: none;" width="100%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecpieritz&theme=2077" width="100%" height="300" alt="Marcador 1">
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ---
-
-## 💬 Stats 
-
-![ecpieritz github stats](https://github-readme-stats.vercel.app/api?username=ecpieritz&show_icons=true&theme=radical)<span>&nbsp;&nbsp;</span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&layout=compact&theme=radical)](https://github.com/ecpieritz/github-readme-stats)
 
 ## :minidisc: Languages/Frameworks/Libs 
 
@@ -33,33 +60,6 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" />
 </p>
-
-##  :blue_book: Improvement Courses
-- Wordpress as a CMS (Origamid)
-- Angular Course (Udemy)
-- Typescript Course (Alura)
-- React with Typescript Course (Alura)
-- Vue.js 3 Course (Alura)
-- React Course (Udemy)
-- React Course (Origamid)
-- SASS Course (Origamid)
-- SASS Course (Alura)
-- Javascript & Typescript (Udemy)
-- Vue.js 2 Course (Origamid)
-- Vue.js 2 Course (Udemy - <a href="https://www.udemy.com/user/maximilian-schwarzmuller/" target="_blank">Maximilian Schwarzmüller</a>)
-- Bootstrap 4 (Udemy)
-- Vue.js 2 Course (Origamid)
-- Vue/Angular Frontend Developer Bootcamp (XP Education)
-- Vue.js Course (Udemy - <a href="https://www.udemy.com/user/leonardomouraleitao/" target="_blank">Leonardo Moura Leitão</a>)
-- CSS Flex course (Origamid)
-- Python Developer Bootcamp (XP Education)
-- Frontend Developer Bootcamp (XP Education)
-- Fullstack Developer Bootcamp (XP Education)
-- Bootstrap 4 (Origamid)
-- Front-end React Developer Bootcamp (Digital Innovation One)
-- JavaScript Course (Udemy)
-- Agile projects with SCRUM (Digital Innovation One)
-- Programming algorithm and logic Course (Udemy)
 
 ---
 <p align = "right">Profile maintained with dedication and 💙 by Emilyn C. Pieritz</p>
