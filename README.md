@@ -1,5 +1,5 @@
 <div>
-    ### 👋 Hello World! 🌍
+    <h2>👋 Hello World! 🌍</h2>
 
 [![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecpieritx/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ecpieritz) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
 
@@ -16,14 +16,14 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
 </div>
 
 <div>
-    <table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;" width="30%">
+    <table style="border: 0;">
+  <tr style="border: 0;">
+    <td style="border: 0;" width="30%" >
       <a href="https://github.com/ecpieritz/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecpieritz&langs_count=8&theme=radical&layout=pie" width="260" >
       </a>
     </td>
-    <td style="border: none;" width="70%">
+    <td style="border: 0;" width="70%">
       <div style="border-radius: 8px; overflow: hidden;">
         <img src="https://github.com/ecpieritz/ecpieritz/blob/master/banner-front.jpg?raw=true" alt="front-end banner" width="100%" height="auto">
       </div>
@@ -32,7 +32,7 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
 </table>
 <table>
   <tr>
-    <td style="border: none;" width="100%">
+    <td style="border: 0;" width="100%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecpieritz&theme=2077" width="100%" height="300" alt="Marcador 1">
     </td>
   </tr>
