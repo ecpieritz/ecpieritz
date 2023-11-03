@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/ecpieritz/ecpieritz/blob/master/codes.jpg?raw=true" border="2" width="30%" height="auto" alt="glasses in front a computer" />
 
-Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Santa Catarina/Brazil.
+Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Pará/Brazil.
 
 I worked for 10 years as a graphic/fashion designer, mainly using photoshop and coreldraw. In 2020 I made my transition to front-end development. I've been working for more than 3 years as a dev.
 
