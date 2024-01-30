@@ -7,7 +7,7 @@
 
 Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Pará/Brazil.
 
-I worked for 10 years as a graphic/fashion designer, mainly using photoshop and coreldraw. In 2020 I made my transition to front-end development. I've been working for more than 3 years as a dev.
+I have a professional trajectory of 10 years as a designer, and in 2020, I successfully transitioned to front-end development. Over the past 3 years, I have been working intensively on the creation of websites, systems, and email marketing.
 
 - Associates degree in analysis and systems development at Uniasselvi.
 - Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
@@ -42,7 +42,7 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
 
 ---
 
-## :minidisc: Languages/Frameworks/Libs 
+## :computer: Languages/Frameworks/Libs 
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" />&nbsp;
@@ -52,10 +52,18 @@ I worked for 10 years as a graphic/fashion designer, mainly using photoshop and 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />&nbsp;
+</p>
+
+---
+
+## :art: Tools 
+
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" alt="xd" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" />
