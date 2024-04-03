@@ -1,7 +1,7 @@
 <div>
     <h2>👋 Hello World! 🌍</h2>
 
-[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecpieritx/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ecpieritz) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
+[![LinKedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecpieritz/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ecpieritz) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH) 
 
 <img align="right" src="https://github.com/ecpieritz/ecpieritz/blob/master/codes.jpg?raw=true" border="2" width="30%" height="auto" alt="glasses in front a computer" />
 
