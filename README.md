@@ -5,9 +5,9 @@
 
 <img align="right" src="https://github.com/ecpieritz/ecpieritz/blob/master/codes.jpg?raw=true" border="2" width="30%" height="auto" alt="glasses in front a computer" />
 
-Hi! :v: My name is Emilyn, I'm 32 years old and I live in the state of Pará/Brazil.
+Hi! :v: My name is Emilyn, I'm 33 years old and I live in the state of Pará/Brazil.
 
-I have a professional trajectory of 10 years as a designer, and in 2020, I successfully transitioned to front-end development. Over the past 3 years, I have been working intensively on the creation of websites, systems, and email marketing.
+I have a professional trajectory of 10 years as a designer and in 2020 I successfully transitioned to front-end development. Over the past 4 years, I have been working intensively on the creation of websites, systems, and email marketing.
 
 - Associates degree in analysis and systems development at Uniasselvi.
 - Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
@@ -25,7 +25,7 @@ I have a professional trajectory of 10 years as a designer, and in 2020, I succe
     </td>
     <td style="border: 0;" width="70%">
       <div style="border-radius: 8px; overflow: hidden;">
-        <img src="https://github.com/ecpieritz/ecpieritz/blob/master/banner-front.jpg?raw=true" alt="front-end banner" width="100%" height="auto">
+        <img src="https://github.com/ecpieritz/ecpieritz/blob/master/banner-front-02.png?raw=true" alt="front-end banner" width="100%" height="auto">
       </div>
     </td>
   </tr>
