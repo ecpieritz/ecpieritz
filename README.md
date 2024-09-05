@@ -7,7 +7,7 @@
 
 Hi! :v: My name is Emilyn, I'm 33 years old and I live in the state of Pará/Brazil.
 
-I have a professional trajectory of 10 years as a designer and in 2020 I successfully transitioned to front-end development. Over the past 4 years, I have been working intensively on the creation of websites, systems, and email marketing.
+I have a professional trajectory of 10 years as a designer and in 2020 I successfully transitioned to front-end development. Over the past 4 years, I have been working intensively on the creation of websites, systems, ecommerces and email marketing.
 
 - Associates degree in analysis and systems development at Uniasselvi.
 - Bootcamps by <a href="https://www.xpeducacao.com.br/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxVz63Or03k20iFjOSeTz5GpAMnrUwKwmTR5wPw4C13QsmJmqcWOcIhoCEEsQAvD_BwE" target="_blank">XP Education</a>.
