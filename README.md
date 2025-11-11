@@ -12,7 +12,7 @@ Hi! :v: My name is Emilyn, I'm 34 years old and I live in the state of Pará/Bra
 I have a professional trajectory of 10 years as a feashion designer and in 2020 I successfully transitioned to front-end development. 
 
 - Associate degree in Analysis and Systems Development at Uniasselvi  
-- Postgraduate in Front-end Development at Anhanguera (in progress)  
+- Postgraduate in Front-end Development at Anhanguera 
 - Creation and improvement of websites, systems, e-commerces, and email marketing  
 - Responsive development and SEO best practices  
 - Experience working with Scrum and Kanban methodologies  
