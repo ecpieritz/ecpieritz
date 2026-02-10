@@ -16,7 +16,7 @@ I have a professional trajectory of 10 years as a feashion designer and in 2020 
 - Creation and improvement of websites, systems, e-commerces, and email marketing  
 - Responsive development and SEO best practices  
 - Experience working with Scrum and Kanban methodologies  
-- 5+ years of experience as a Front-end Developer  
+- 6+ years of experience as a Front-end Developer  
 - 40+ projects delivered  
 - 2k+ cups of coffee consumed ☕  
 
