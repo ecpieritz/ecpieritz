@@ -7,18 +7,21 @@
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecpieritz/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ecpieritz) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH)
 
-Hi! :v: My name is Emilyn, I'm 35 years old and I live in the state of Pará/Brazil.
+## Hi there! 👋
 
-I have a professional trajectory of 10 years as a feashion designer and in 2020 I successfully transitioned to frontend engineer. 
+My name is Emilyn and I'm from Pará, Brazil.
 
-- Associate degree in Analysis and Systems Development at Uniasselvi  
-- Postgraduate in Front-end Development at Anhanguera 
-- Creation and improvement of websites, systems, e-commerces, and email marketing  
-- Responsive development and SEO best practices  
-- Experience working with Scrum and Kanban methodologies  
-- 6+ years of experience as a Frontend Engineer
-- 40+ projects delivered  
-- 2k+ cups of coffee consumed ☕  
+I'm a **Senior Frontend Engineer** with **6+ years of experience** building scalable web applications, fintech platforms, SaaS products, and digital banking solutions. I specialize in **react, next.js, typescript, javascript, and vue.js**, with a strong focus on frontend architecture, performance, design systems, accessibility, and delivering high-quality user experiences.
+
+- 🎓 Associate Degree in Analysis and Systems Development
+- 🎓 Postgraduate Degree in Front-end Development
+- 💻 6+ years of professional experience as a Senior Frontend Engineer
+- ⚛️ Specialized in react, next.js, typescript, javascript, and vue.js
+- 🏦 Experience building fintech, SaaS, and digital banking platforms
+- 🧩 Strong background in frontend architecture, reusable component libraries, and scalable applications
+- 🧪 Experience with automated testing using jest and cypress
+- 🚀 40+ projects delivered
+- ☕ 2k+ cups of coffee consumed
 
 ---
 
