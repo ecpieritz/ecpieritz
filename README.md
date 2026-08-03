@@ -5,7 +5,7 @@
 
 My name is Emilyn and I'm from Pará, Brazil.
 
-I'm a **Senior Frontend Engineer** with **6+ years of experience** building scalable web applications, fintech platforms, SaaS products, and digital banking solutions. I specialize in **react, next.js, typescript, javascript, and vue.js**, with a strong focus on frontend architecture, performance, design systems, accessibility, and delivering high-quality user experiences.
+I'm a **Senior Frontend Engineer** with **6+ years of experience** building scalable web applications, fintech platforms, SaaS products, and digital banking solutions. I specialize in **react, next.js, typescript, javascript, vue.js and angular**, with a strong focus on frontend architecture, performance, design systems, accessibility, and delivering high-quality user experiences.
 
 - 🎓 Associate Degree in Analysis and Systems Development
 - 🎓 Postgraduate Degree in Front-end Development
