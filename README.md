@@ -5,15 +5,19 @@
 
 My name is Emilyn and I'm from Pará, Brazil.
 
-I'm a **Senior Frontend Engineer** with **6+ years of experience** building scalable web applications, fintech platforms, SaaS products, and digital banking solutions. I specialize in **react, next.js, typescript, javascript, vue.js and angular**, with a strong focus on frontend architecture, performance, design systems, accessibility, and delivering high-quality user experiences.
+I'm a **Senior Frontend Engineer** with **6+ years of experience** building scalable web applications, fintech platforms, SaaS products, and digital banking solutions. I specialize in **React, Next.js, TypeScript, JavaScript, Vue.js, and Angular**, with a strong focus on frontend architecture, performance, design systems, accessibility, and delivering high-quality user experiences.
+
+I'm currently expanding my skills toward **Full Stack Development**, studying **Node.js, backend development, REST APIs, SQL, SQLite, databases, and server-side architecture** to strengthen my understanding of the entire application lifecycle.
 
 - 🎓 Associate Degree in Analysis and Systems Development
 - 🎓 Postgraduate Degree in Front-end Development
-- 💻 6+ years of professional experience as a Senior Frontend Engineer
-- ⚛️ Specialized in react, next.js, typescript, javascript, and vue.js
+- 💻 6+ years of professional experience in Frontend Engineering
+- ⚛️ Specialized in React, Next.js, TypeScript, JavaScript, and Vue.js
+- 🔧 Currently expanding into Full Stack Development with Node.js and backend technologies
+- 🗄️ Studying SQL, Postgres, SQLite, databases, API development, and server-side concepts
 - 🏦 Experience building fintech, SaaS, and digital banking platforms
 - 🧩 Strong background in frontend architecture, reusable component libraries, and scalable applications
-- 🧪 Experience with automated testing using jest and cypress
+- 🧪 Experience with automated testing using Jest, React Testing Library, and Cypress
 - 🚀 40+ projects delivered
 - ☕ 2k+ cups of coffee consumed
 
@@ -22,7 +26,7 @@ I'm a **Senior Frontend Engineer** with **6+ years of experience** building scal
 ## :computer: Languages/Frameworks/Libs
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img width="100%" src="https://skillicons.dev/icons?i=react,next,vue,angular,javascript,typescript,wordpress,jquery,css,html,bootstrap,tailwind,sass,less,vscode,docker,git,github,jest,styledcomponents,vercel,vite,figma,photoshop,xd" />
+  <img width="100%" src="https://skillicons.dev/icons?i=react,next,vue,angular,javascript,typescript,nodejs,postgres,express,sqlite,postman,npm,wordpress,jquery,css,html,bootstrap,tailwind,sass,less,docker,git,github,jest,styledcomponents,vercel,vite,figma,photoshop,xd" />
 </a>
   <br />
 
